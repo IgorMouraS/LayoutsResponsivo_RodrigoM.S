@@ -4,6 +4,8 @@
 
 ![adicionando badges com SHIELDS IO](https://img.shields.io/badge/STATUS-CONCLUÍDO-<COLOR>GREEN)
 
+<br>
+
 <p align="center">Layout 1</p>
 
 <div display="flex" align="center">
@@ -11,11 +13,17 @@
   <img width="20%" src="fotos/Layout1_celular.png" alt="Layout 1 celular">
 </div>
 
+<br>
+<br>
+
 <p align="center">Layout 2</p>
 
 <div align="center">
   <img width="61%" src="fotos/Layout2.png" alt="Layout 2">
 </div>
+
+<br>
+<br>
 
 <p align="center">Layout 3</p>
 
@@ -23,6 +31,9 @@
   <img width="61%" align="left" src="fotos/Layout3_telaCheia.png" alt="Layout 3 Tela Cheia">
   <img width="20%" src="fotos/Layout3_celular.png" alt="Layout 3 celular">
 </div>
+
+<br>
+<br>
 
 <p align="center">Layout 4</p>
 
